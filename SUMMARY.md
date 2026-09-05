@@ -23,4 +23,8 @@
 
 ## Conversion & upgrades
 
-* [Page 2](conversion-and-upgrades/page-2.md)
+* [GHK conversion](conversion-and-upgrades/ghk-conversion.md)
+* [GHK conversion - hard way](conversion-and-upgrades/ghk-conversion-hard-way.md)
+* [Hop up](conversion-and-upgrades/hop-up.md)
+* [Loading nozzle](conversion-and-upgrades/loading-nozzle.md)
+* [VFC/GHK BCG](conversion-and-upgrades/vfc-ghk-bcg.md)
