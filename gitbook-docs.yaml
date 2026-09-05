@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Keith's WA GBBR Wiki
+  structure:
+    - type: space
+      key: space-1
+      title: Western Arms M4 system
+      path: product-docs
+      default: true
+      content:
+        directory: ./product-docs
