@@ -17,6 +17,11 @@
 * [Golden Eagle PMAG](magazines/golden-eagle-pmag.md)
 * [Golden Eagle ATR4](magazines/golden-eagle-atr4.md)
 * [Golden Eagle STANAG](magazines/golden-eagle-stanag.md)
+* [G\&P PMAG](magazines/g-and-p-pmag.md)
+* [G\&P STANAG](magazines/g-and-p-stanag.md)
+* [King Arms STANAG](magazines/king-arms-stanag.md)
+* [King Arms STANAG V2](magazines/king-arms-stanag-v2.md)
+* [ProWin V2 STANAG](magazines/prowin-v2-stanag.md)
 
 ## Compatibility
 

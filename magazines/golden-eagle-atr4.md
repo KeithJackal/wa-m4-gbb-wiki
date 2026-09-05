@@ -9,6 +9,4 @@ Does not support DH or CO2, don't even attempt.
 
 <figure><img src="../.gitbook/assets/ge-132548-3.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/ge-132548.jpg" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/ge-132548-2.jpg" alt=""><figcaption></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/ge-132548.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/ge-132548-2.jpg" alt=""><figcaption></figcaption></figure></div>

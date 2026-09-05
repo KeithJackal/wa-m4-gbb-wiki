@@ -6,6 +6,4 @@ It's best to avoid these at all costs and either buy PMAGs, GHK magazines or con
 \
 DO NOT BUY THESE!!!
 
-<figure><img src="../.gitbook/assets/prima-16675.jpg" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/prima-16675-2.jpg" alt=""><figcaption></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/prima-16675.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/prima-16675-2.jpg" alt=""><figcaption></figcaption></figure></div>
