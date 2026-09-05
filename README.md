@@ -1,15 +1,15 @@
 ---
 description: Introductory page
 icon: memo
-cover: .gitbook/assets/20250611_173045.jpg
-coverY: 228.11671087533156
+cover: .gitbook/assets/20250611_172713.jpg
+coverY: -106.10079575596816
 coverHeight: 288
 layout:
   width: default
   cover:
     visible: true
-    size: full
-    mask: none
+    size: background
+    mask: radial
   title:
     visible: true
   description:
