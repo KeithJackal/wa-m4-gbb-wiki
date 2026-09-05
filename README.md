@@ -2,8 +2,7 @@
 description: Introductory page
 icon: memo
 cover: .gitbook/assets/20250611_173045.jpg
-coverY: -252.28580331830997
-coverHeight: 400
+coverY: 15.915119363395226
 layout:
   width: default
   cover:
