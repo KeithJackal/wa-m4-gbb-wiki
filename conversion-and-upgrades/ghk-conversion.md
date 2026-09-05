@@ -72,7 +72,7 @@ This is where you must modify the firing pin and GFPA housing to make it all fit
 ## Cutting the valve knocker
 
 {% columns %}
-{% column %}
+{% column valign="middle" %}
 As shown on the picture, use a file to approximately shave the firing pin down as much, you can polish the surfaces and round off any sharp edges if you wish.
 {% endcolumn %}
 

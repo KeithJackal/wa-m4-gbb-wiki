@@ -9,7 +9,8 @@
 
 ## Models
 
-* [Page 3](models/page-3.md)
+* [Golden Eagle - polymer](models/golden-eagle-polymer.md)
+* [Golden Eagle - full metal](models/golden-eagle-full-metal.md)
 
 ## Magazines
 
@@ -28,3 +29,4 @@
 * [Loading nozzle](conversion-and-upgrades/loading-nozzle.md)
 * [VFC/GHK BCG](conversion-and-upgrades/vfc-ghk-bcg.md)
 * [VFC mags](conversion-and-upgrades/vfc-mags.md)
+* [Charging handle](conversion-and-upgrades/charging-handle.md)
