@@ -28,8 +28,9 @@ layout:
 
 # GHK conversion
 
-<mark style="background-color:$info;">Due to the platform similarities between GHK and WA you can actually convert your WA to take GHK specific fire control group parts (FCG in short).</mark>\
-\ <mark style="background-color:$info;">By default with no modifications done you can install a GHK trigger set and hammer with the hammer spring as well, basically drop in. It's considered a good upgrade as you gain a little softer hammer spring with a properly timed firing pin, giving GHK magazines better valve timing and output. This does not affect the functionality with original WA spec magazines, if anything it's an improvement.</mark>
+Due to the platform similarities between GHK and WA you can actually convert your WA to take GHK specific fire control group parts (FCG in short).\
+\
+By default with no modifications done you can install a GHK trigger set and hammer with the hammer spring as well, basically drop in. It's considered a good upgrade as you gain a little softer hammer spring with a properly timed firing pin, giving GHK magazines better valve timing and output. This does not affect the functionality with original WA spec magazines, if anything it's an improvement.
 
 {% hint style="info" %}
 GHK hammer will hit at a full 90 degree angle and with no pivoting firing pin you must have your hammer cocked every time you wish to remove or insert a magazine. WA FCG is designed around the hammer just tapping the firing pin, engaging the valve locker on the magazine until the cycle is done.
@@ -136,6 +137,6 @@ Once cut properly it should look similar to this
 
 ## Final touches
 
-Test the fitment, once right you can complete the assembly.
+Test the fitment, once right you can complete the assembly.&#x20;
 
 <div><figure><img src="../.gitbook/assets/cellImage_1254695528_10.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/cellImage_1254695528_11.jpg" alt=""><figcaption></figcaption></figure></div>
