@@ -13,7 +13,9 @@
 
 ## Magazines
 
-* [Page 1](magazines/page-1.md)
+* [Golden Eagle PMAG](magazines/golden-eagle-pmag.md)
+* [Golden Eagle ATR4](magazines/golden-eagle-atr4.md)
+* [Golden Eagle STANAG](magazines/golden-eagle-stanag.md)
 
 ## Compatibility
 
