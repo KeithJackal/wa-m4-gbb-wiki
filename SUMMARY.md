@@ -19,7 +19,7 @@
 
 ## Compatibility
 
-* [Page 4](compatibility/page-4.md)
+* [Page 1](compatibility/page-1.md)
 
 ## Conversion & upgrades
 

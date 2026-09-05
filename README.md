@@ -1,6 +1,31 @@
 ---
 description: Introductory page
 icon: memo
+cover: .gitbook/assets/20250611_173045.jpg
+coverY: 103.15186246418338
+coverHeight: 400
+layout:
+  width: default
+  cover:
+    visible: true
+    size: background
+    mask: radial
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Western Arms Magna M4 GBBR

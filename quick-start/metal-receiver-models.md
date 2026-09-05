@@ -11,6 +11,24 @@ description: >-
 
 <div><figure><img src="../.gitbook/assets/IMG_20250215_163107374.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/IMG_20250215_163114769.jpg" alt=""><figcaption></figcaption></figure></div>
 
+{% tabs %}
+{% tab title="Hammer" %}
+<figure><img src="../.gitbook/assets/IMG_20240505_012201276.jpg" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Trigger" %}
+<figure><img src="../.gitbook/assets/IMG_20240505_012127109.jpg" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Bolt catch" %}
+<figure><img src="../.gitbook/assets/IMG_20240505_012111261.jpg" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Anti rotation links" %}
+<figure><img src="../.gitbook/assets/IMG_20240505_012118956.jpg" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
 ### Important notes
 
 * The hop up may need some work but is generally effective and decently compatible with AEG rubbers and inner barrels.\
