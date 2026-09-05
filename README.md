@@ -3,7 +3,7 @@ description: Introductory page
 icon: memo
 cover: .gitbook/assets/20250611_172713.jpg
 coverY: -106.10079575596816
-coverHeight: 288
+coverHeight: 389
 layout:
   width: default
   cover:
@@ -30,9 +30,9 @@ layout:
 
 # Western Arms Magna M4 GBBR
 
-<mark style="background-color:$info;">Western Arms or also known as WA is a Japanese toy gun company who specialises in manufacturing various 1911 or even 2011 replicas. The company also pioneered the modern gas in mag AR-15 system in mid 2000s and has seen countless of clones or even derivatives ever since.</mark>
+Western Arms or also known as WA is a Japanese toy gun company who specialises in manufacturing various 1911 or even 2011 replicas. The company also pioneered the modern gas in mag AR-15 system in mid 2000s and has seen countless of clones or even derivatives ever since.
 
-<mark style="background-color:$info;">While a lot of different companies made WA clones at the time, the only company still producing them is Golden Eagle. Going forward most of the information will revolve around the said brand, unless stated otherwise.</mark>
+> While a lot of different companies made WA clones at the time, the only company still producing them is Golden Eagle. Going forward most of the information will revolve around the said brand, unless stated otherwise.
 
 <figure><img src=".gitbook/assets/kHciq05.png" alt=""><figcaption><p>Wildly oversimplified flowchart</p></figcaption></figure>
 
