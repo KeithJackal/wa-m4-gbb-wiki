@@ -30,9 +30,12 @@ layout:
 
 Due to the platform similarities between GHK and WA you can actually convert your WA to take GHK specific fire control group parts (FCG in short).\
 \
-By default with no modifications done you can install a GHK trigger set and hammer with the hammer spring as well, basically drop in. It's considered a good upgrade as you gain a little softer hammer spring with a properly timed firing pin, giving GHK magazines better valve timing and output. This does not affect the functionality with original WA spec magazines, if anything it's an improvement.\
-However, GHK hammer will hit at a full 90 degree angle and with no pivoting firing pin you must have your hammer cocked every time you wish to remove or insert a magazine.\
-\
+By default with no modifications done you can install a GHK trigger set and hammer with the hammer spring as well, basically drop in. It's considered a good upgrade as you gain a little softer hammer spring with a properly timed firing pin, giving GHK magazines better valve timing and output. This does not affect the functionality with original WA spec magazines, if anything it's an improvement.
+
+{% hint style="info" %}
+GHK hammer will hit at a full 90 degree angle and with no pivoting firing pin you must have your hammer cocked every time you wish to remove or insert a magazine. WA FCG is designed around the hammer just tapping the firing pin, engaging the valve locker on the magazine until the cycle is done.
+{% endhint %}
+
 Do note that this guide implies you are going to use WA/GHK magazines and not VFC. While VFC mags will work with this conversion they can light strike due to the weaker hammer spring pressure. You've been warned.
 
 ## Getting started
@@ -54,3 +57,18 @@ hence the name. the assembly has both a firing pin and bolt catch integrated, ma
 {% endcolumn %}
 {% endcolumns %}
 
+{% columns %}
+{% column %}
+<figure><img src="../.gitbook/assets/cellImage_1254695528_3.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/cellImage_1254695528_4.jpg" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column valign="middle" %}
+Unfortunately the GHK firing pin doesn't even fit through the GFPA, yet alone sit in the lower as is.&#x20;
+
+
+
+This is where you must modify the firing pin and GFPA housing to make it all fit properly.
+{% endcolumn %}
+{% endcolumns %}

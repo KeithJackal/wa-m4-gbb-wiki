@@ -28,3 +28,4 @@
 * [Hop up](conversion-and-upgrades/hop-up.md)
 * [Loading nozzle](conversion-and-upgrades/loading-nozzle.md)
 * [VFC/GHK BCG](conversion-and-upgrades/vfc-ghk-bcg.md)
+* [VFC mags](conversion-and-upgrades/vfc-mags.md)
