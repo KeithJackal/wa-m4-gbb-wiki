@@ -1,2 +1,0 @@
-# GHK conversion - hard way
-
